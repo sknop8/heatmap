@@ -1,1 +1,2 @@
 # heatmap
+Visually logs data taken from a user playing a test game using the Oculus Rift, and other relevant information such as cues (red), stimuli (blue), user button press (yellow), angular position of the stimuli, and time. This was created using Processing, and has fast-forward, pause, and rewind functionality. An SMI EyeTracker implanted into the Oculus was used to gather the gaze data, which was logged from a game in Unity.
